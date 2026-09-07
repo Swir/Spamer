@@ -2,30 +2,44 @@
 
 # ⌨️ Message Sender
 
-**Keyboard automation for controlled testing / Automatyzacja klawiatury do kontrolowanych testów**
+### Configurable Keyboard Automation for Controlled Testing & Repetitive Text Entry
+
+**Python • Tkinter • pynput • Hotkeys • Delays • Themes**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![GUI](https://img.shields.io/badge/GUI-Tkinter-555555)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-2ea44f)
+![Automation](https://img.shields.io/badge/Automation-pynput-ff9800)
+![Use](https://img.shields.io/badge/Use-Controlled%20Testing-success)
 
 </div>
 
 ---
 
-## 🇵🇱 Polski
+## 🚀 About
 
-Projekt zawiera prostą aplikację w Pythonie do automatycznego wpisywania przygotowanych wiadomości za pomocą kontrolera klawiatury. Interfejs pozwala skonfigurować kilka tekstów, liczbę powtórzeń, opóźnienie oraz motyw GUI.
+**Message Sender** is a small Python desktop utility for automating repetitive keyboard text entry in controlled environments. Configure several prepared messages, choose the repeat count and delay, then start or stop the automation with keyboard shortcuts.
 
-### Funkcje
+It is useful for UI testing, demonstrations, repetitive local data entry and test environments where automated typing is permitted.
 
-- do 6 wiadomości w jednej sesji,
-- ustawiana liczba powtórzeń,
-- regulowane opóźnienie pomiędzy wpisami,
-- skróty `F1` — start i `F2` — stop,
-- motywy `ubuntu`, `arc` i `plastik`,
-- licznik znaków,
-- praca w osobnym wątku.
+It is designed for users searching for a **Python keyboard automation GUI**, **automated text entry tool**, **pynput message sender**, **Tkinter typing automation** or a small hotkey-controlled text-testing utility.
 
-### Instalacja
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---|---|
+| 💬 Multiple messages | Configure up to six text entries per session |
+| 🔁 Repeat count | Control how many cycles are performed |
+| ⏱️ Delay | Set the pause between entries |
+| ⌨️ Hotkeys | `F1` starts and `F2` stops the automation |
+| 🔢 Character counter | Review message length |
+| 🧵 Threaded execution | Keeps the GUI responsive |
+| 🎨 Themes | Ubuntu, Arc and Plastik visual themes |
+
+---
+
+## 📦 Installation
 
 ```bash
 git clone https://github.com/Swir/Spamer.git
@@ -34,41 +48,28 @@ pip install ttkthemes pynput
 python run.py
 ```
 
-### ⚠️ Odpowiedzialne użycie
+---
 
-Program jest przeznaczony do automatyzacji własnych testów, demonstracji i środowisk, w których masz zgodę na generowanie wiadomości. Nie używaj go do zalewania cudzych czatów, nękania użytkowników ani obchodzenia limitów usług.
+## 🔍 Discoverability
+
+`python keyboard automation gui` • `automated text entry python` • `pynput typing automation` • `tkinter message sender` • `keyboard macro python` • `repetitive text entry tool` • `hotkey automation python`
 
 ---
 
-## 🇬🇧 English
+## ⚠️ Responsible Use
 
-This repository contains a small Python application that automatically types prepared messages through a keyboard controller. The GUI lets you configure multiple texts, repeat count, delay and visual theme.
-
-### Features
-
-- up to 6 messages per session,
-- configurable repeat count,
-- adjustable delay between entries,
-- `F1` start and `F2` stop shortcuts,
-- `ubuntu`, `arc` and `plastik` GUI themes,
-- character counter,
-- threaded execution.
-
-### Installation
-
-```bash
-git clone https://github.com/Swir/Spamer.git
-cd Spamer
-pip install ttkthemes pynput
-python run.py
-```
-
-### ⚠️ Responsible use
-
-Use this tool only for your own testing, demonstrations or environments where automated message generation is permitted. Do not use it to flood third-party chats, harass users or bypass service limits.
+Use this application only for your own testing, demonstrations, accessibility workflows or environments where automated text entry is explicitly permitted. Do not use it to flood third-party chats, harass users, generate unsolicited messages or bypass service limits.
 
 ---
 
-## 👤 Author / Autor
+## 👨‍💻 Author
 
-Created and maintained by **Swir**.
+Developed by **Swir** — [@Swir](https://github.com/Swir)
+
+<div align="center">
+
+### ⌨️ Configure the text • Set the delay • Run the test
+
+⭐ **Star the repository if it helps your automation testing!**
+
+</div>
