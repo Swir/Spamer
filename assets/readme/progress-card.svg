@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Message Sender product progress</title>
+  <desc id="desc">Product progress is not available because this legacy utility has no authoritative measurable roadmap.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02050A"/><stop offset="1" stop-color="#07111C"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0088FF"/><stop offset="1" stop-color="#62E5FF"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#62E5FF" stroke-opacity=".05"/></pattern></defs>
+  <rect x="1" y="1" width="1198" height="178" rx="24" fill="url(#bg)" stroke="#62E5FF" stroke-opacity=".22"/><rect x="1" y="1" width="1198" height="178" rx="24" fill="url(#grid)"/>
+  <text x="50" y="46" fill="#62E5FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">SWIR PROGRESS</text>
+  <text x="50" y="82" fill="#F4FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">MESSAGE SENDER</text>
+  <text x="50" y="108" fill="#8DA8B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">Measured scope: product roadmap</text>
+  <text x="1100" y="82" text-anchor="end" fill="#F4FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">N/A</text>
+  <text x="1100" y="108" text-anchor="end" fill="#62E5FF" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.2">NO AUTHORITATIVE ROADMAP</text>
+  <rect x="50" y="126" width="1100" height="24" rx="12" fill="#08131F" stroke="#62E5FF" stroke-opacity=".14"/>
+  <path d="M50 138H1150" stroke="url(#accent)" stroke-opacity=".18" stroke-width="2"/>
+  <text x="50" y="168" fill="#8DA8B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Counter: N/A — no verified denominator</text>
+  <text x="1150" y="168" text-anchor="end" fill="#8DA8B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Release readiness tracked separately</text>
+</svg>
