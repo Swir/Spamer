@@ -20,6 +20,12 @@
 
 </div>
 
+## 📸 Screenshot
+
+![Spamer application screenshot](docs/screenshots/application.jpg)
+
+Initial message template window on Windows. Sending has not been started.
+
 # Message Sender
 
 A small Python desktop utility for **controlled keyboard text automation**. It can type a prepared sequence of messages into the currently focused application, repeat the sequence a chosen number of times, and pause between entries.
